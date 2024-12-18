@@ -4,9 +4,9 @@
 
 <img align="right" alt="Data Analyst" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGy_IJ2j8Hi68vhKm-Q5jmN1Ma2hOEs00u07Z4kcA4we6LhjhapHdeyF5MfrnwiGkfiSg&usqp=CAU">
 
-- 📫 How to reach me ** - poojapkale28@gmail.com**
+- 📫 How to reach me - **poojapkale28@gmail.com**
 
-- ⚡ Fun fact ** - I think I'm Crazy over DATA👨‍💻**
+- ⚡ Fun fact - **I think I'm Crazy over DATA👨‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

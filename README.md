@@ -1,3 +1,4 @@
+![logo](https://github.com/PoojaPKale/PoojaPKale/blob/main/Data%20Analyst%20Linkedin%20Background%20(1).png)
 <h1 align="center">Hi 👋, I'm POOJA P KALE</h1>
 <h3 align="center">A passionate DATA ANALYST </h3>
 

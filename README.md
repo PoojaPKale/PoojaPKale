@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm POOJA P KALE</h1>
+<h3 align="center">A passionate DATA ANALYST </h3>
 
-<!--
-**PoojaPKale/PoojaPKale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Data Analyst" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGy_IJ2j8Hi68vhKm-Q5jmN1Ma2hOEs00u07Z4kcA4we6LhjhapHdeyF5MfrnwiGkfiSg&usqp=CAU">
 
-Here are some ideas to get you started:
+- 📫 How to reach me **poojapkale28@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **I think I'm Crazy over DATA👨‍💻**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pooja-p-kale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pooja-p-kale/" height="30" width="40" /></a>
+</p>
